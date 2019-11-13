@@ -1,7 +1,7 @@
 #dependencies
 import random
-import numpy
-import pandas
+import numpy as np
+import pandas as pd
 #function
 def generate(x=int):
     sequence = [i for i in range(x)]
