@@ -1,1 +1,0 @@
-OPTIONS = {'packages': ['tkinter'], 'argv_emulation': False}
