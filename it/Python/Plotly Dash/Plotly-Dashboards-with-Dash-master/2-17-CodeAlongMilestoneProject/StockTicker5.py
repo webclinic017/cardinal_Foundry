@@ -11,6 +11,7 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output, State
+import yfinance as yf
 import pandas_datareader.data as web # requires v0.6.0 or later
 from datetime import datetime
 
@@ -62,10 +63,10 @@ app.layout = html.Div([
 def update_graph(n_clicks, stock_ticker, start_date, end_date):
     start = datetime.strptime(start_date[:10], '%Y-%m-%d')
     end = datetime.strptime(end_date[:10], '%Y-%m-%d')
-    df = web.DataReader(stock_ticker,'iex',start,end)
+    df = yf.download(stock_ticker,start,end)
     fig = {
         'data': [
-            {'x': df.index, 'y': df.close}
+            {'x': df.index, 'y': df["Adj Close"]}
         ],
         'layout': {'title':stock_ticker}
     }

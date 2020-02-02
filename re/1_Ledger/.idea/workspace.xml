@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bd161e4-5f04-4719-87ce-584b7368e0bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/notebook_ledger-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ledger.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebook_ledger.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch02/02_02/factory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch02/02_02/factory_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch02/02_04/abstractFactory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch02/02_04/abstractFactory_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch02/02_06/singleton.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch02/02_06/singleton_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch02/02_08/builder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch02/02_08/builder_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch02/02_10/prototype.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch02/02_10/prototype_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch03/03_02/decorator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch03/03_02/decorator_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch03/03_04/proxy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch03/03_04/proxy_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch03/03_06/adapter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch03/03_08/composite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch03/03_08/composite_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch03/03_10/bridge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch03/03_10/bridge_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch04/04_02/observer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch04/04_02/observer_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch04/04_04/visitor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch04/04_04/visitor_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch04/04_06/iterator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch04/04_06/iterator_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch04/04_08/strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch04/04_08/strategy_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch04/04_10/chain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Ex_Files_python_dpatterns/Ch04/04_10/chain_final.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Principles_and_Patterns.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Snips/Dependencies/.ipynb_checkpoints/1_Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Snips/Dependencies/1_Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Snips/Display/.ipynb_checkpoints/1_Python-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/Snips/Display/1_Python.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design-Patterns/srp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Playing Dice with Life/.ipynb_checkpoints/1_Dice-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Playing Dice with Life/1_Dice.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Playing Dice with Life/Random Number Generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_Tic-Tac-Toe with Life/1_Random Number Generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1_self qrCode.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myqr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/1_Sequences.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Amortization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Mini-Project.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/.ipynb_checkpoints/Anagram Check -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/.ipynb_checkpoints/Array Pair Sum -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/.ipynb_checkpoints/Find the Missing Element -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/.ipynb_checkpoints/Largest Continuous Sum -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/.ipynb_checkpoints/Sentence Reversal-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/.ipynb_checkpoints/String Compression -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/.ipynb_checkpoints/Unique Characters in String-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/Anagram Check .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/Array Pair Sum .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/Find the Missing Element .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/Largest Continuous Sum .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/Sentence Reversal.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/String Compression .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - PRACTICE/Unique Characters in String.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - SOLUTIONS/Anagram Check - SOLUTION.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions - SOLUTIONS/Anagram Check - SOLUTION.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/.ipynb_checkpoints/Anagram Check -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/.ipynb_checkpoints/Array Pair Sum -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/.ipynb_checkpoints/Find the Missing Element -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/.ipynb_checkpoints/Largest Continuous Sum -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/.ipynb_checkpoints/Sentence Reversal-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/.ipynb_checkpoints/String Compression -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/.ipynb_checkpoints/Unique Characters in String-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/Anagram Check .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/Array Pair Sum .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/Find the Missing Element .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/Largest Continuous Sum .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/Sentence Reversal.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/String Compression .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Array Sequences Interview Questions/Array Sequence Interview Questions/Unique Characters in String.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Dynamic Array Exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Dynamic Array Exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Dynamic Arrays.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Introduction to Array Based Sequences.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Array/Low Level Arrays.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Big O/.ipynb_checkpoints/Algorithm Analysis and Big O Quiz-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Big O/.ipynb_checkpoints/Big O Examples -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Big O/.ipynb_checkpoints/Big O Notation-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Big O/.ipynb_checkpoints/Big O for Python Data Structures-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Big O/.ipynb_checkpoints/Introduction to Algorithm Analysis and Big O -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Big O/1_Big O.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Big O/Algorithm Analysis and Big O Quiz.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Big O/Big O Examples .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Big O/Big O Notation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Big O/Big O for Python Data Structures.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Big O/Introduction to Algorithm Analysis and Big O .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/1_Recursion.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Factorial Function in Recursion used in real life..ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Introduction to Recursion.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Introduction to Recursion.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Memoization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Memoization.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Homework Example Problems - PRACTICE.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Homework Example Problems.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems - PRACTICE/.ipynb_checkpoints/Recursion Problem 1 - Reverse String -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems - PRACTICE/.ipynb_checkpoints/Recursion Problem 2 - String Permutation-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems - PRACTICE/.ipynb_checkpoints/Recursion Problem 2 - String Permutations-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems - PRACTICE/.ipynb_checkpoints/Recursion Problem 3 - Fibonacci Sequence-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems - PRACTICE/.ipynb_checkpoints/Recursion Problem 4 - Coin Change-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems - PRACTICE/Recursion Problem 1 - Reverse String .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems - PRACTICE/Recursion Problem 2 - String Permutation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems - PRACTICE/Recursion Problem 3 - Fibonacci Sequence.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems - PRACTICE/Recursion Problem 4 - Coin Change.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems/.ipynb_checkpoints/Recursion Problem 1 - Reverse String -checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems/.ipynb_checkpoints/Recursion Problem 2 - String Permutation-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems/.ipynb_checkpoints/Recursion Problem 2 - String Permutations-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems/.ipynb_checkpoints/Recursion Problem 3 - Fibonacci Sequence-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems/.ipynb_checkpoints/Recursion Problem 4 - Coin Change-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems/Recursion Problem 1 - Reverse String .ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems/Recursion Problem 2 - String Permutation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems/Recursion Problem 3 - Fibonacci Sequence.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Algorithms &amp; Data-Structures/Recursion/Recursion Interview Problems/Recursion Problems/Recursion Problem 4 - Coin Change.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Basics/Primitives/01-Python-Strings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Basics/Primitives/01-Python-Strings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Basics/Primitives/02-Python-Lists.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Basics/Primitives/02-Python-Lists.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Basics/Primitives/03-Python-Dictionaries.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Basics/Primitives/03-Python-Dictionaries.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Basics/Primitives/04-Tuples.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Basics/Primitives/04-Tuples.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Basics/Primitives/05-Sets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Basics/Primitives/05-Sets.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Basics/Primitives/06-Booleans.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Basics/Primitives/06-Booleans.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Basics/Primitives/07-Working-with-Simple-Text-Files.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Basics/Primitives/07-Working-with-Simple-Text-Files.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Basics/Primitives/0_Numbers Exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Basics/Primitives/0_Numbers Exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Basics/Primitives/2.a Concept - Print Operation and Get User input.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Basics/Primitives/2.a Concept - Print Operation and Get User input.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/3.1.quotes-spider-basic.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/3.3.quotes-spider-basic.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/4.quotes-spider-advanced.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/CSS-Selectors-for-web-scraping-cheatsheet-modern (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/CSS-Selectors-for-web-scraping-cheatsheet-modern.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/XPath-for-web-scraping-cheatsheet-modern.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/Xpath-introduction.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/bookstoscrape.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/bypass _cloudflare (1).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/bypass _cloudflare.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/code (1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/demo-airbnb-new.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/employees.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/exercises.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/expermient-20191104T195805Z-001.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/glasseshop.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/imdb-pipeline.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/imdb.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/livecoin (1).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/livecoin.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/national_debt.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/quotes-spider-architecture.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/quotestoscrape_assignment.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/tinydeal.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebScrapping/worldometers.zip" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Harshraj\Downloads\1\cardinal_Foundry\Projects\1_Ledger\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U1mi9xK2JkHEw7VRrqJgDDVmIs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python/Tkinter/TK-master" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bd161e4-5f04-4719-87ce-584b7368e0bd" name="Default Changelist" comment="" />
+      <created>1574532599166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574532599166</updated>
+      <workItem from="1574532607135" duration="63000" />
+      <workItem from="1576060866581" duration="302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
