@@ -4,3 +4,4 @@
 - There are many resources and ways one can learn algorithms and data structure with. In my case, well laid-out udemy course by Jose helped me find great resources for diving into algorithms and data structures.
 - Two courses from MIT and Stanford are also excellent valuable resources, to have firmer grasp on algorithms and design analysis.
 - Although many can use programming, there are many more still that do not. Graphical User Interfaces, such as Python’s de-facto Tkinter, benefit desktop users by allowing quick and intuitive interfaces to all kinds of applications such as Stock Portfolio, YouTube Video Downloader or even Python IDE.
+- Python implementations of the common but important algorithms and data structures are covered in notes briefly and as for the project, AlgoPlay, i.e Tkinter GUI , tinkers with Recursive Sum, Factorial Sum and Fibonacci Sequence to realize how few steps, depending upon algorithm, lead to drastic change in results.
